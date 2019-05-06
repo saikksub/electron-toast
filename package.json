@@ -1,0 +1,24 @@
+{
+  "name": "electron-toast",
+  "version": "0.1.0",
+  "description": "Toast style notification for electron application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saikksub/electron-toast.git"
+  },
+  "keywords": [
+    "electron",
+    "notification",
+    "toast"
+  ],
+  "author": "saikksub <saikksub@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saikksub/electron-toast/issues"
+  },
+  "homepage": "https://github.com/saikksub/electron-toast#readme"
+}
